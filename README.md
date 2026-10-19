@@ -34,23 +34,7 @@ The broader vision is to explore how GPU-accelerated image processing could cont
 
 ## 🖼️ Input and Output Results
 
-### 1. Original Input X-ray
-
-![Input X-ray](screenshots/input_xray.png)
-
-### 2. Inverted Image
-
-![Inverted Image](screenshots/output_inverted.png)
-
-### 3. Inverted Pseudocolour Image
-
-![Inverted Pseudocolour Image](screenshots/output_inverted_pseudocolour.png)
-
-### 4. Pseudocolour Image
-
-![Pseudocolour Image](screenshots/output_pseudocolour.png)
-
-
+- Check on the ppt for the input and output results!
 
 ## 💡 CUDA Concepts Applied
 
