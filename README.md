@@ -42,13 +42,15 @@ The broader vision is to explore how GPU-accelerated image processing could cont
 
 ![Inverted Image](screenshots/output_inverted.png)
 
-### 3. Pseudocolour Image
+### 3. Inverted Pseudocolour Image
+
+![Inverted Pseudocolour Image](screenshots/output_inverted_pseudocolour.png)
+
+### 4. Pseudocolour Image
 
 ![Pseudocolour Image](screenshots/output_pseudocolour.png)
 
-### 4. Inverted Pseudocolour Image
 
-![Inverted Pseudocolour Image](screenshots/output_inverted_pseudocolour.png)
 
 ## 💡 CUDA Concepts Applied
 
