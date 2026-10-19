@@ -36,19 +36,19 @@ The broader vision is to explore how GPU-accelerated image processing could cont
 
 ### 1. Original Input X-ray
 
-![Input X-ray](screenshots/input.png)
+![Input X-ray](screenshots/input_xray.png)
 
 ### 2. Inverted Image
 
-![Inverted Image](screenshots/inverted.png)
+![Inverted Image](screenshots/output_inverted.png)
 
 ### 3. Pseudocolour Image
 
-![Pseudocolour Image](screenshots/pseudocolour.png)
+![Pseudocolour Image](screenshots/output_pseudocolour.png)
 
 ### 4. Inverted Pseudocolour Image
 
-![Inverted Pseudocolour Image](screenshots/inverted-pseudocolour.png)
+![Inverted Pseudocolour Image](screenshots/output_inverted-pseudocolour.png)
 
 ## 💡 CUDA Concepts Applied
 
